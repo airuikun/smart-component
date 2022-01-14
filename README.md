@@ -52,7 +52,6 @@ npm install --save micro-tech
 &emsp;&emsp;I recommend using "vue-cli" to write a "vue" component.
 </br>
 &emsp;&emsp;<a href="https://cli.vuejs.org/guide/build-targets.html#library" target="_blank">How to write a "vue" component with use "vue-cli"</a></br>
-&emsp;&emsp;And you can use the<a href="https://github.com/y805939188/elf-cli" target="_blank"> elf-cli </a>to easily create a react component that meets the umd.
 </br>
 
 # Parameter
