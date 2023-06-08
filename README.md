@@ -1,7 +1,7 @@
 
 # React加载vue的微前端组件
-##### 基于single-spa的react微前端组件
-预计single-spa原理，实现react项目加载vue组件
+
+基于single-spa原理，实现react项目加载vue组件
 
 # demo 体验
 ```
